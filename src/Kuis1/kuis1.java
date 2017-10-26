@@ -7,7 +7,7 @@ package Kuis1;
 
 /**
  *
- * @author user
+ * @author DITO
  */
 public class kuis1 extends javax.swing.JFrame {
 
